@@ -1,3 +1,44 @@
 * {
     box-sizing: border-box;
 }
+body{
+    Background-color: #f1f1f1;
+    padding: 10px;
+  
+  }
+  main{
+    width: 650px;
+    margin: auto;
+  }
+  .contener1{
+  height:400px;
+  width: 600px;
+  display: flex;
+  
+  }
+  
+  .contener1 img{
+  height:100px;
+  width: 100%;
+  }
+  
+  .content{
+  width: 25%;
+  margin: 2px;
+  padding: 5px;
+  Background-color: #fff;
+  
+  
+  }
+  
+  .contener2{
+    margin-top: 5px;
+    Background-color: #fff;
+    padding: 5px;
+    width: 600px;
+  
+  }
+  .contener2 img{
+    width: 100%;
+  
+  }
