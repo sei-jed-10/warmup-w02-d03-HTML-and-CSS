@@ -7,7 +7,7 @@ body{
   
   }
   main{
-    width: 650px;
+    width: 640px;
     margin: auto;
   }
   .contener1{
@@ -24,8 +24,8 @@ body{
   
   .content{
   width: 25%;
-  margin: 2px;
-  padding: 5px;
+  margin: 3px;
+  padding: 6px;
   Background-color: #fff;
   
   
@@ -33,12 +33,13 @@ body{
   
   .contener2{
     margin-top: 5px;
+    margin-bottom: 2px;
     Background-color: #fff;
-    padding: 5px;
+    padding: 6px;
     width: 600px;
   
   }
   .contener2 img{
-    width: 100%;
+      width: 100%;
   
   }
